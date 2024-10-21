@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background: linear-gradient( #ffa4e8, #bd06ba);
+    font-size: 23px; 
+    width: auto;
+}
+button {
+    background-color: #99648c; 
+    color: white; 
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+h1 {
+    font-family: Roboto, sans-serif; 
+    color: #e300dc;
+}
+input {
+    padding: 5px 10px; 
+}
+label {
+    color: #000000;
+}
